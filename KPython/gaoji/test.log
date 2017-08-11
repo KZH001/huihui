@@ -1,0 +1,5 @@
+2017-08-04 09:58:08,603 log.py[line:13] DEBUG dubug message
+2017-08-04 09:58:08,603 log.py[line:14] INFO info message
+2017-08-04 09:58:08,603 log.py[line:15] WARNING warning message
+2017-08-04 09:58:08,603 log.py[line:16] ERROR error message
+2017-08-04 09:58:08,603 log.py[line:17] CRITICAL critical message

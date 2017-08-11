@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>康</title>
+    <!-- <title>filter test</title> -->
+  </head>
+  <body>
+    num:{{num | add:"2" | add:"3"}}<br>
+    str:{{k | lower}}<br>
+    {%load poll_extras%}
+    fil:{{k | rep:' '}}
+  </body>
+</html>
+<!-- 引入自定义装饰器  将空格转换其他符号
+ k相当于引入传值-->

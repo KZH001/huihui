@@ -1,0 +1,5 @@
+2017-08-04 10:23:37,349 - root - DEBUG - debug message
+2017-08-04 10:23:37,349 - root - INFO - info message
+2017-08-04 10:23:37,349 - root - WARNING - warning message
+2017-08-04 10:23:37,350 - root - ERROR - error message
+2017-08-04 10:23:37,350 - root - CRITICAL - critical message
